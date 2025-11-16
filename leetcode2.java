@@ -1,4 +1,5 @@
-package leetcode75;
+package Leetcode_75;
+
 
 import java.util.Scanner;
 
